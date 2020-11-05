@@ -1,8 +1,16 @@
 <html>
   <head>
-      <script src="https://assets.adobedtm.com/b9d08c2e66db/2cf20626d2b5/launch-cbb7990fa58c.min.js"></script>
-   <script>
-window.dataLayer = window.dataLayer || [];
+      <script src="https://assets.adobedtm.com/b9d08c2e66db/2cf20626d2b5/launch-cbb7990fa58c.min.js">
+  
+ <script>
+  var dataLayer = {
+    'pageName': 'Stadium',
+    'Team': 'Tottenham',
+    'Language': 'en',
+    'Sport': 'Soccer',
+      'Section': 'MySite'
+  }        ;
+    </script>
 
     </script>
   </head>
