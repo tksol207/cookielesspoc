@@ -1,6 +1,6 @@
 <html>
   <head>
-      <script src="https://assets.adobedtm.com/b9d08c2e66db/2cf20626d2b5/launch-cbb7990fa58c.min.js">
+      <script src="TS_AppMeasurement.js">
   var dataLayer = {
     'pageName': 'Stadium',
     'Team': 'Tottenham',
