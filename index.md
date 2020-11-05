@@ -1,7 +1,10 @@
 <html>
   <head>
-      <script src="TS_AppMeasurement.js">
-  var dataLayer = {
+      <script src="/TS_AppMeasurement.js"> </script>
+    <script src="/TS_VisitorpAPI.js"> </script>
+ 
+  <script>
+ var dataLayer = {
     'pageName': 'Stadium',
     'Team': 'Tottenham',
     'Language': 'en',
