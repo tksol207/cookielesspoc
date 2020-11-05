@@ -16,7 +16,7 @@
 
     s.currencyCode = "USD";
     //s.visitorNamespace = "miamiheatlimitedpartnership";
-    s.trackingServer = "eymeasurement.com.sc.omtrdc.net";
+    s.trackingServer = "eymeasurement.sc.omtrdc.net";
     //s.trackingServerSecure = "eymeasurement.com.sc.omtrdc.net";
     s.usePlugins = true;
 
