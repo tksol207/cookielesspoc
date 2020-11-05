@@ -1,7 +1,7 @@
 <html>
   <head>
-      <script src="/TS_AppMeasurement.js"> </script>
-    <script src="/TS_VisitorpAPI.js"> </script>
+      <script src="cookielesspoc/TS_AppMeasurement.js"> </script>
+    <script src="cookielesspoc/TS_VisitorpAPI.js"> </script>
  
   <script>
  var dataLayer = {
