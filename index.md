@@ -1,11 +1,11 @@
 <html>
   <head>
       <script src="/cookielesspoc/TS_AppMeasurement.js"> </script>
-    <script src="/cookielesspoc/TS_VisitorpAPI.js"> </script>
+    <script src="/cookielesspoc/TS_VisitorAPI.js"> </script>
  
   <script>
  var dataLayer = {
-    'pageName': 'Stadium',
+    'pageName': 'Home',
     'Team': 'Tottenham',
     'Language': 'en',
     'Sport': 'Soccer',
