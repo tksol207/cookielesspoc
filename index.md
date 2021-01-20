@@ -1,7 +1,6 @@
 <html>
   <head>
-      <script src="/cookielesspoc/TS_AppMeasurement.js"> </script>
-    <script src="/cookielesspoc/TS_VisitorAPI.js"> </script>
+      <script src="//assets.adobedtm.com/b9d08c2e66db/07e90607798f/launch-d3a23f4ed67b.min.js" async></script>
  
   <script>
  var dataLayer = {
